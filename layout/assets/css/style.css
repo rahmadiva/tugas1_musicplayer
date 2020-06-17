@@ -1,0 +1,107 @@
+/* @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i);
+*/
+
+.utama {
+	width: 1020px;
+	margin: auto;
+	border: 1px solid #000001;
+	background-color: #e9ebee;
+	}
+
+a {
+	text-decoration: none;
+}
+
+table {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #baca;
+	border-collapse: collapse;
+	width: 1000px;
+}
+table th {
+	text-align: left;
+	width: 300px;
+	border: 1px solid #baca;
+	padding: 10px;
+	background-color: #ADD8E6;
+	color: black;
+}
+table td {
+	border: 1px solid #baca;
+	padding:10px;
+	background-color: pink;
+}
+
+.container {
+	background: #fff;
+	width: 1020px;
+	margin: auto;
+	padding: 10px;
+}
+
+.header {
+	
+}
+
+.menu  {
+	padding: 10px;
+	background-color:   	#87CEFA ;
+	color: #fff;
+	text-decoration: none;
+}
+.menu a {
+	padding: 10px;
+	background-color:   	#87CEFA;
+	color: black ;
+	text-decoration: none;
+}
+.menu a:hover {
+	background-color: #baca ;
+}
+.menu {
+	margin-top: 3px;
+	margin-bottom: 20px;
+	position: relative;
+}
+
+.isi{
+	margin-left: 10px;
+	margin-bottom: 50px;
+
+}
+
+.btn {
+	border: 1px solid #ccc;
+	font-size: 15px;
+	font-weight: 400;
+	padding: 4px;
+	vertical-align: 3px;
+	text-decoration: none;
+}
+
+.main {
+	min-height: 400px;
+}
+
+.grid-music {
+	display: grid;
+	grid-auto-columns:33,333333%;
+	grid-template-areas: "a a a";
+	grid-gap: 50px;
+}
+
+.grid-music > div {
+  text-align: center;
+}
+
+.footer {
+	padding: 20px;
+	text-align: right;
+	background-color: pink;
+	width: 980px;
+	position: bottom;
+	bottom: 0px;
+	right: 0px;
+	color: black;
+}
