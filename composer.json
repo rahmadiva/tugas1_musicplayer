@@ -1,6 +1,6 @@
 
 {
-    "name": "rahmadipa-uinsu/si-musicplayer",
+    "name": "rahmadiva",
     "description": "Program Latihan Pemrograman Berbasis Web Lanjutan - SI Music Player",
     "type": "project",
     "require": {
@@ -8,7 +8,7 @@
     },
     "authors": [
         {
-            "name": "rahma dipa",
+            "name": "rahmadiva",
             "email": "rahmadipasalsabil11@gmail.com"
         }
     ],
